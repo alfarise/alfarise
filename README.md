@@ -5,5 +5,5 @@
 - 🔭 I’m on studying.
 - 🌱 I’m currently learning something new.
 - 💬 Ask me something interesting.
-- 📫 How to reach me: [Al Farisi](codelife.alf@gmail.com)
+- 📫 How to reach me: codelife.alf@gmail.com
 - ⚡ Fun fact: I don't know.
